@@ -1,4 +1,4 @@
-# PPARγ QSAR — Predicting IC50 from Chemical Structure
+# Predicting IC50 from Chemical Structure
 
 A complete, teaching-oriented QSAR (Quantitative Structure–Activity Relationship) pipeline that predicts **PPARγ inhibition potency (IC50)** directly from a molecule's SMILES string — built from ChEMBL bioactivity data and reproducing the methodology of:
 
