@@ -1,0 +1,7 @@
+Compound_ID,Full_Name,Smiles
+DMSO,Dimethyl sulfoxide,CS(=O)C
+DEHP,Bis(2-ethylhexyl) phthalate,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC
+DIBP,Diisobutyl phthalate,CC(C)COC(=O)c1ccccc1C(=O)OCC(C)C
+MEHP,Mono(2-ethylhexyl) phthalate,CCCCC(CC)COC(=O)c1ccccc1C(=O)O
+MEHHP,Mono-(2-ethyl-5-hydroxyhexyl) phthalate,OC(=O)c1ccccc1C(=O)OCC(CC)CCC(O)C
+MEOHP,Mono(2-ethyl-5-oxohexyl) phthalate,OC(=O)c1ccccc1C(=O)OCC(CC)CCC(=O)C
